@@ -26,8 +26,8 @@ platanus gap_close -o Poil -t 1 -c Poil_scaffold.fa -IP2 sub_PE_R1.fastq.trimmed
 ```
 
 ## multiQC
-[*HTML-файл по неподрезанным чтениям*](/data/reports/multiqc_not_trimmed.html)\
-[*HTML-файл по подрезанным чтениям*](/data/reports/multiqc_trimmed.html)
+[*HTML-файл по неподрезанным чтениям*](/data/multiqc_not_trimmed.html)\
+[*HTML-файл по подрезанным чтениям*](/data/multiqc_trimmed.html)
 
 ### General Statistics
 ##### Before Trimming
